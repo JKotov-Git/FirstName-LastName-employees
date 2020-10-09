@@ -1,0 +1,11 @@
+.MuiDataGrid-footer {
+    display:none !important;
+}
+
+.data-grid-container {
+    height: 150px; 
+    width: 40%; 
+    margin: 25px auto;
+    background-color: white;
+    padding: 20px;
+}
